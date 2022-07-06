@@ -27,4 +27,6 @@ How to use:
 * while joining your server wait for it to say "Downloading Manifest", Inject when u see that.
 * Wait till ingame and press F4 to launch menu
 * ENJOY!
+* ![image](https://user-images.githubusercontent.com/93891590/177621614-704decc4-a82b-4877-8a03-76ffbf2097ee.png)
+
 
